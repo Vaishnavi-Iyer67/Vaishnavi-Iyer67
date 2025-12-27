@@ -65,7 +65,6 @@ System-level project for detecting malicious network activity.
 Minimal, responsive portfolio showcasing projects and skills.
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
@@ -77,18 +76,18 @@ Minimal, responsive portfolio showcasing projects and skills.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnaviKN&layout=donut&theme=dark&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnaviKN&theme=github-compact&hide_border=true"/>
-</p>
+
+
+
 
 ---
 
 ### Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/vaishnaviKN"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://https://www.linkedin.com/in/vaishnavi-kn-b727b532b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:vaishnavikn122mail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Vaishnavi-Iyer67"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
