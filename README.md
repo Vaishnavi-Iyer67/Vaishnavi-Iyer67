@@ -70,13 +70,25 @@ Minimal, responsive developer portfolio.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Iyer67&theme=dark&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Iyer67&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Iyer67&theme=tokyo-night&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi-Iyer67&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Vaishnavi-Iyer67&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=donut&theme=dark&cache_seconds=1800"/>
-</p>
+
 
 
 ---
@@ -124,5 +136,6 @@ Minimal, responsive developer portfolio.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Iyer67&label=Profile%20Views&color=0d1117&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Iyer67&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
