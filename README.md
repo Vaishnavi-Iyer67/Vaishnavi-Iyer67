@@ -17,10 +17,10 @@ AI • Systems • App Development • Problem Solving
 
 ---
 
-## Tech Stack (Visual)
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,html,css,js,react,django,flutter,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nodejs,flutter,androidstudio,mysql,mongodb" />
 </p>
 
 ---
