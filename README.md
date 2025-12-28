@@ -69,16 +69,17 @@
 ### 🔥 Contribution Graph
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Iyer67&theme=github-compact)
 
+## 📊 GitHub Analytics
+
 ### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=compact&theme=dark&cache_seconds=1800)
 
 ### 📈 Stats Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&theme=dark&cache_seconds=1800)
 
----
+### 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Iyer67&theme=onedark)
 
-## 🏆 Achievements & Badges
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Iyer67&theme=darkhub)
 
 ---
 
@@ -86,3 +87,5 @@
 - 📧 Email: **vaishnavikn122@gmail.com**
 - 💼 LinkedIn: [vaishnavi-kn67](https://www.linkedin.com/in/vaishnavi-kn67)
 - 🧠 LeetCode: [vaishnavi_676](https://leetcode.com/u/vaishnavi_676/)
+- 
+![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-Iyer67&label=Profile%20Views&color=0e75b6&style=flat)
