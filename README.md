@@ -67,16 +67,17 @@ Minimal, responsive developer portfolio.
 
 ---
 
-## GitHub Stats & Contribution Analysis
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Iyer67&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&include_all_commits=true&count_private=true&theme=dark&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Iyer67&theme=dark&cache_seconds=1800" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=donut&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=donut&theme=dark&cache_seconds=1800"/>
 </p>
+
 
 ---
 
