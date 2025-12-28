@@ -2,24 +2,25 @@
 <h3 align="center">Computer Science & Engineering | 2nd Year</h3>
 
 <p align="center">
-Building AI-powered applications, system-level projects, and clean software solutions.
+AI • Systems • App Development • Problem Solving
 </p>
 
 ---
 
 ## About Me
 
-- 2nd Year Computer Science & Engineering student  
-- Strong interest in **Problem Solving, AI Systems, and Scalable Applications**  
-- Hands-on experience with **GenAI, Video Intelligence, and Security Systems**  
-- Focused on writing **clean, maintainable, and well-engineered code**
+- Computer Science & Engineering undergraduate (2nd Year)
+- Passionate about **problem solving, scalable systems, and AI-powered applications**
+- Experience building **GenAI products, security systems, mobile apps, and video intelligence tools**
+- Strong foundation in **DSA and core CS concepts**
+- Also a **content creator & video editor**, blending tech with creativity
 
 ---
 
-## Tech Stack
+## Tech Stack (Visual)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,django,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,kotlin,html,css,js,react,django,flutter,mysql" />
 </p>
 
 ---
@@ -27,7 +28,7 @@ Building AI-powered applications, system-level projects, and clean software solu
 ## Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,postman,notion" />
+  <img src="https://skillicons.dev/icons?i=windows,androidstudio,vscode,git,github,postman,notion" />
 </p>
 
 ---
@@ -36,13 +37,13 @@ Building AI-powered applications, system-level projects, and clean software solu
 
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-0A0A0A?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-0A0A0A?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grok-0A0A0A?style=flat"/>
+  <img src="https://img.shields.io/badge/Perplexity-0A0A0A?style=flat"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-0A0A0A?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-0A0A0A?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-0A0A0A?style=flat&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity-0A0A0A?style=flat"/>
   <img src="https://img.shields.io/badge/Cursor-0A0A0A?style=flat"/>
-  <img src="https://img.shields.io/badge/Replit-0A0A0A?style=flat&logo=replit&logoColor=white"/>
 </p>
 
 ---
@@ -50,31 +51,47 @@ Building AI-powered applications, system-level projects, and clean software solu
 ## Featured Projects
 
 **Syntheta — AI Automated Video Editing App**  
-AI-powered video trimming, captions, filters, and export pipeline.
+AI-driven trimming, captions, filters, previews, and one-click export.
 
 **Vacayo — Smart Trip Planner App**  
 Instagram-style UI with intelligent itinerary planning.
 
 **Video Summarization using Generative AI**  
-Summarizes long videos using GenAI and NLP.
+Summarizes long videos using GenAI & NLP.
 
 **Intrusion Detection System (IDS)**  
-Security-focused project for detecting malicious activity.
+Security-focused system for detecting malicious activity.
 
 **Personal Portfolio Website**  
-Minimal, responsive portfolio showcasing skills and projects.
+Minimal, responsive developer portfolio.
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Contribution Analysis
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi-Iyer67&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi-Iyer67&theme=dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=donut&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=donut&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## Development Metrics (Deep Analysis)
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Vaishnavi-Iyer67
+  ?template=classic
+  &activity=1
+  &isocalendar=1
+  &languages=1
+  &lines=1
+  &repositories=1
+  &followup=1
+  &theme=dark"/>
 </p>
 
 ---
@@ -83,7 +100,7 @@ Minimal, responsive portfolio showcasing skills and projects.
 
 <p align="center">
   <a href="https://leetcode.com/u/vaishnavi_676/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-0A0A0A?style=flat&logo=leetcode&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-0A0A0A?style=flat&logo=leetcode&logoColor=orange"/>
   </a>
 </p>
 
