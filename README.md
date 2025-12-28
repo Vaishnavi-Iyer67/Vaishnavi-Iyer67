@@ -72,7 +72,7 @@
 ## 📊 GitHub Analytics
 
 ### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=compact&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=compact&theme=tokyonight)
 
 ### 📈 Stats Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&theme=dark&cache_seconds=1800)
