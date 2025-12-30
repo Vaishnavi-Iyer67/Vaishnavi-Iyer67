@@ -93,16 +93,13 @@ I’m a **Computer Science Engineering undergraduate** passionate about
 
 ---
 
-## 🐍 Contribution Snake (Interactive Feel)
+## 🐍  Watch my Contribution Snake 
 
 > *This animates automatically and looks amazing as you grow*
 
 <p align="center">
   <img src="https://github.com/Vaishnavi-Iyer67/Vaishnavi-Iyer67/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-⚠️ **Important:**  
-You must enable this once (I’ll guide you if you want).
 
 ---
 
