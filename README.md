@@ -60,30 +60,43 @@ I’m a **Computer Science Engineering undergraduate** passionate about
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+</p>
 
-### 🌐 Web / Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+### 🌐 Web & Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+</p>
 
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/>
+</p>
 
----
+### 🗄 Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+</p>
 
 ## 🤖 AI & Developer Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github)
-![Cursor](https://img.shields.io/badge/Cursor-000000)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+</p>
 
----
 
 ## 🚧 Currently Working On
 - 📱 Advanced Android projects  
