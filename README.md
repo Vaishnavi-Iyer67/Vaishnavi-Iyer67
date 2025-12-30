@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58a6ff&height=140&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58a6ff&height=150&section=header" />
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Iyer</h1>
 
@@ -11,11 +11,12 @@
     color=58A6FF&
     center=true&
     vCenter=true&
-    width=600&
+    width=650&
     lines=Android+Developer;
     Backend+Developer;
     DSA+Problem+Solver;
-    AI+Tools+Enthusiast" />
+    AI+Tools+Enthusiast;
+    Building+Projects+Everyday" />
 </p>
 
 <h3 align="center">
@@ -38,79 +39,90 @@ Android • Backend • AI-Powered Development | CSE Undergraduate
 
 ## 👩‍💻 About Me
 
-💡 I’m a **Computer Science Engineering undergraduate** passionate about building **real-world applications** using  
-**Android, Backend technologies, and AI-assisted development workflows**.
+I’m a **Computer Science Engineering undergraduate** passionate about  
+**Android development, backend systems, and AI-assisted workflows**.
 
-- 🚀 Focused on clean architecture & scalable solutions  
-- 🧠 Strong in DSA & problem solving  
-- 🤖 Use AI tools to boost development speed  
-- 🎨 Content creator & video editor  
+- 📱 Android apps with Kotlin & Flutter  
+- ⚙️ Backend APIs using Node.js  
+- 🧠 Strong DSA & problem solving  
+- 🤖 AI tools for faster, smarter development  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-9b6f8e6b-87b1-4b36-ae9f-1c9a4d2bdfcc.gif" width="280"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-9b6f8e6b-87b1-4b36-ae9f-1c9a4d2bdfcc.gif" width="260"/>
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
+</p>
+
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
 
-### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+### 🌐 Web / Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
 
-### 📱 Mobile Development
+### 📱 Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-
 ---
 
-## 🤖 AI & Productivity Tools
+## 🤖 AI & Developer Tools
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google)
-![Claude](https://img.shields.io/badge/Claude-000000)
-![Perplexity](https://img.shields.io/badge/Perplexity-0055FF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github)
 ![Cursor](https://img.shields.io/badge/Cursor-000000)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface)
 
 ---
 
 ## 🚧 Currently Working On
-- 📱 Advanced Android applications  
-- ⚙️ Backend APIs using Node.js  
-- 🧩 DSA & competitive programming  
-- 🤖 AI-assisted developer workflows  
+- 📱 Advanced Android projects  
+- ⚙️ Backend APIs  
+- 🧩 DSA consistency  
+- 🤖 AI-powered dev workflows  
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake (Interactive Feel)
 
-### 🔥 Contribution Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi-Iyer67&theme=github-compact)
+> *This animates automatically and looks amazing as you grow*
 
-### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Iyer67&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github.com/Vaishnavi-Iyer67/Vaishnavi-Iyer67/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Iyer67&show_icons=true&theme=dark&cache_seconds=900)
+⚠️ **Important:**  
+You must enable this once (I’ll guide you if you want).
 
-### 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vaishnavi-Iyer67&theme=onedark)
+---
+
+## 📊 GitHub Snapshot (Clean)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?
+username=Vaishnavi-Iyer67&
+show_icons=true&
+hide_border=true&
+theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
+username=Vaishnavi-Iyer67&
+layout=compact&
+hide_border=true&
+theme=github_dark" />
+</p>
 
 ---
 
