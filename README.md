@@ -106,12 +106,6 @@ I’m a **Computer Science Engineering undergraduate** passionate about
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Vaishnavi-Iyer67/Vaishnavi-Iyer67/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📬 Let’s Connect
 
 - 📧 **Email**: vaishnavikn122@gmail.com  
