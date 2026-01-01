@@ -112,26 +112,6 @@ I’m a **Computer Science Engineering undergraduate** passionate about
 
 ---
 
-## 📊 GitHub Snapshot (Clean)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-username=Vaishnavi-Iyer67&
-show_icons=true&
-hide_border=true&
-theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-username=Vaishnavi-Iyer67&
-layout=compact&
-hide_border=true&
-theme=github_dark" />
-</p>
-
----
-
 ## 📬 Let’s Connect
 
 - 📧 **Email**: vaishnavikn122@gmail.com  
