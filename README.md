@@ -16,10 +16,6 @@
 ## ✨ Why I Build
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
   I enjoy understanding <b>how systems behave</b> under pressure.<br/>
   I like breaking problems until the solution feels obvious.<br/>
   I’d rather build <b>one solid thing</b> than ten half-baked ones.
