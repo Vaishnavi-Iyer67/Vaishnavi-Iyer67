@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=850&color=E5E7EB&center=true&vCenter=true&width=540&lines=Android+%26+Backend+Developer;I+build+things+that+last;Learning+by+shipping+real+systems" />
 </p>
 
+<!-- HERO GIF (girl-coded, aesthetic) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="440"/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="440"/>
 </p>
 
 <br/>
