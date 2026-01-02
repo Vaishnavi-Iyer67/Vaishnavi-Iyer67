@@ -1,56 +1,63 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58a6ff&height=160&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58a6ff&height=180&section=header"/>
 
 <h1 align="center">Hey, I'm Vaishnavi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code&
-    size=24&
-    duration=3000&
-    pause=800&
+    size=26&
+    duration=2500&
+    pause=600&
     color=58A6FF&
     center=true&
     vCenter=true&
-    width=700&
+    width=750&
     lines=Android+%26+Backend+Developer;
-    Building+Things+That+Actually+Work;
-    Exploring+AI+Powered+Systems" />
+    Crafting+Scalable+Systems;
+    Turning+Ideas+Into+Working+Products;
+    Exploring+AI+Powered+Architecture" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="260"/>
 </p>
 
 ---
 
-<h3 align="center">⚡ I like building clean systems, scalable backends, and meaningful apps.</h3>
+<h3 align="center">
+⚡ Building clean architectures • writing meaningful code • shipping real things
+</h3>
 
 ---
 
-### 🧩 Tech I Enjoy Working With
+## 🧩 Tech I Love Using
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,java,python,nodejs,react,mongodb,mysql,git,github&theme=dark" />
 </p>
 
----
-
-### 🌱 What I’m Usually Doing
 <p align="center">
-  🚀 Shipping features <br/>
-  🧠 Solving problems <br/>
-  🤖 Playing with AI tools <br/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="350"/>
 </p>
 
 ---
 
+## 🌱 What I’m Usually Doing
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-29d0b6e5-2c3f-4a60-9a4f-bf5a4f2b2d5a.gif" width="300"/>
+  🚀 Building production-ready features <br/>
+  🧠 Designing backend logic & APIs <br/>
+  🤖 Experimenting with AI & automation <br/>
+  🛠️ Fixing bugs before they fix me <br/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="320"/>
 </p>
 
 ---
 
-### 📬 Find Me Around
+## 📬 Find Me Around
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-kn67">
@@ -64,10 +71,12 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="180"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Iyer67&color=58a6ff&style=flat"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0e75b6&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0e75b6&height=140&section=footer"/>
