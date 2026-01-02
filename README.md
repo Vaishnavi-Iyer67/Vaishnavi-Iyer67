@@ -1,119 +1,73 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58a6ff&height=150&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58a6ff&height=160&section=header" />
 
-<h1 align="center">Hi 👋, I'm Vaishnavi Iyer</h1>
+<h1 align="center">Hey, I'm Vaishnavi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code&
-    size=22&
-    duration=2500&
+    size=24&
+    duration=3000&
     pause=800&
     color=58A6FF&
     center=true&
     vCenter=true&
-    width=650&
-    lines=Android+Developer;
-    Backend+Developer;
-    DSA+Problem+Solver;
-    AI+Tools+Enthusiast;
-    Building+Projects+Everyday" />
+    width=700&
+    lines=Android+%26+Backend+Developer;
+    Building+Things+That+Actually+Work;
+    Exploring+AI+Powered+Systems" />
 </p>
 
-<h3 align="center">
-Android • Backend • AI-Powered Development | CSE Undergraduate
-</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
+</p>
+
+---
+
+<h3 align="center">⚡ I like building clean systems, scalable backends, and meaningful apps.</h3>
+
+---
+
+### 🧩 Tech I Enjoy Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,java,python,nodejs,react,mongodb,mysql,git,github&theme=dark" />
+</p>
+
+---
+
+### 🌱 What I’m Usually Doing
+<p align="center">
+  🚀 Shipping features <br/>
+  🧠 Solving problems <br/>
+  🤖 Playing with AI tools <br/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-29d0b6e5-2c3f-4a60-9a4f-bf5a4f2b2d5a.gif" width="300"/>
+</p>
+
+---
+
+### 📬 Find Me Around
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-kn67">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vaishnavikn122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/vaishnavi_676/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I’m a **Computer Science Engineering undergraduate** passionate about  
-**Android development, backend systems, and AI-assisted workflows**.
-
-- 📱 Android apps with Kotlin & Flutter  
-- ⚙️ Backend APIs using Node.js  
-- 🧠 Strong DSA & problem solving  
-- 🤖 AI tools for faster, smarter development  
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-9b6f8e6b-87b1-4b36-ae9f-1c9a4d2bdfcc.gif" width="260"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
-</p>
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-</p>
-
-### 🌐 Web & Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55"/>
-</p>
-
-### 🗄 Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
-</p>
-
-## 🤖 AI & Developer Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-</p>
-
-
-## 🚧 Currently Working On
-- 📱 Advanced Android projects  
-- ⚙️ Backend APIs  
-- 🧩 DSA consistency  
-- 🤖 AI-powered dev workflows  
-
----
-
-## 📬 Let’s Connect
-
-- 📧 **Email**: vaishnavikn122@gmail.com  
-- 💼 **LinkedIn**: [vaishnavi-kn67](https://www.linkedin.com/in/vaishnavi-kn67)  
-- 🧠 **LeetCode**: [vaishnavi_676](https://leetcode.com/u/vaishnavi_676/)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Iyer67&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Iyer67&color=58a6ff&style=flat"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0e75b6&height=120&section=footer" />
