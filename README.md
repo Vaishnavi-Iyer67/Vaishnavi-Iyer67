@@ -1,86 +1,122 @@
-<h1 align="center">Vaishnavi 👩‍💻</h1>
+<!-- TOP WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&animation=fadeIn" />
+
+<h1 align="center">Hey, I’m Vaishnavi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=700&color=E5E7EB&center=true&vCenter=true&width=650&lines=Android+%26+Backend+Developer;I+build+things+that+don’t+break+easily;Turning+coffee+into+code+since+forever;I+debug+before+I+panic" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=720&lines=Android+%26+Backend+Developer;I+build+things+that+actually+work;Breaking+systems+since+day+one;Fixing+them+even+faster" />
 </p>
 
-<!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="460"/>
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="420"/>
 </p>
 
-<p align="center"><i>Code. Break. Fix. Repeat. Occasionally sleep.</i></p>
+<p align="center"><b>⚠️ Warning:</b> Scroll at your own risk. This README has personality.</p>
 
 ---
 
-## 🤔 Why I Build Stuff
+## 🎯 What I Do (In Simple Words)
 
 <p align="center">
-  Because “it works on my machine” is <b>not</b> good enough.<br/>
-  Because bugs are just misunderstood features.<br/>
-  Because building things that <b>actually make sense</b> is oddly satisfying.
+  <img src="https://media.giphy.com/media/l41lHDSvmwnQGDUD6/giphy.gif" width="380"/>
+</p>
+
+<p align="center">
+  I turn ideas into apps.<br/>
+  I turn bugs into lessons.<br/>
+  I turn <i>“why is this slow?”</i> into <b>“oh, that’s why.”</b>
 </p>
 
 ---
 
-## ⚡ Things I’m Surprisingly Good At
+## 🧠 How My Brain Works
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+  🔹 Think in flows, not files<br/>
+  🔹 Design before coding<br/>
+  🔹 Assume everything will break — then prevent it
+</p>
+
+---
+
+## ⚡ Skills Unlocked
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-  🧩 Designing backend logic that doesn’t cry under load<br/>
-  📱 Building Android apps that behave (most of the time)<br/>
-  🧠 Overthinking edge cases so users don’t have to
+  📱 Android apps that don’t freeze<br/>
+  🧩 Backend logic that scales<br/>
+  🐛 Debugging without losing sanity (mostly)
 </p>
 
 ---
 
-## 🛠️ Tech I Trust With My Sanity
+## 🛠️ Weapons of Choice
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,java,python,nodejs,mongodb,mysql,git&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="360"/>
 </p>
 
 <p align="center">
-  Yes, I Google things.<br/>
-  No, I don’t feel guilty about it.
+  I don’t memorize syntax.<br/>
+  I memorize <b>how things fail</b>.
 </p>
 
 ---
 
-## 🌱 Currently Leveling Up In
+## 🌱 Currently Grinding XP In
 
 <p align="center">
-  🤖 AI-powered systems (they’re fun until they hallucinate)<br/>
-  🚀 Backend performance & scalability<br/>
-  🧘 Writing cleaner code so future-me doesn’t suffer
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
+</p>
+
+<p align="center">
+  🤖 AI-powered systems<br/>
+  🚀 Backend performance<br/>
+  🧼 Writing cleaner code so future-me doesn’t cry
 </p>
 
 ---
 
 <details>
-<summary align="center"><b>👀 Click if you’re curious</b></summary>
+<summary align="center"><b>👀 Click for Lore</b></summary>
 
 <p align="center">
-  I learn by breaking things — responsibly.<br/>
-  I like knowing <b>why</b> something failed, not just <b>that</b> it failed.<br/>
-  I care about systems, not just syntax.
+  I learn by building.<br/>
+  I grow by breaking things.<br/>
+  I enjoy solving problems that don’t have StackOverflow answers.
 </p>
 
 </details>
 
 ---
 
+## 🌐 Find Me Here
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-kn67">LinkedIn</a> •
-  <a href="mailto:vaishnavikn122@gmail.com">Email</a> •
-  <a href="https://leetcode.com/u/vaishnavi_676/">LeetCode</a>
+  <a href="https://www.linkedin.com/in/vaishnavi-kn67">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:vaishnavikn122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/vaishnavi_676/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
 
-<p align="center"><i>Warning: May refactor code at 2 AM.</i></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300"/>
+</p>
+
+<p align="center"><i>Built
