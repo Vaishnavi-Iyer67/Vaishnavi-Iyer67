@@ -52,10 +52,6 @@
 ## 🌱 What I’m Exploring Now
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
   AI-powered systems<br/>
   Backend performance & scalability<br/>
   Writing cleaner, calmer code
