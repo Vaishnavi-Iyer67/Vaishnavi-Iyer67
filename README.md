@@ -1,5 +1,32 @@
 <!-- TOP WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&animation=fadeIn" />
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e40af&height=180&section=header&text=Vaishnavi&fontSize=56&fontColor=E5E7EB&animation=fadeIn&fontAlignY=35"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=JetBrains+Mono
+    &size=28
+    &pause=500
+    &color=60A5FA
+    &center=true
+    &vCenter=true
+    &width=800
+    &lines=Android+%26+Backend+Developer;I+build+systems,+not+just+features;I+break+things+so+users+don’t;Clean+code.+Calm+architecture."
+  />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="460"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Scroll_Down_for_Good_Stuff-0ea5e9?style=for-the-badge&labelColor=020617" />
+</p>
+
 
 <h1 align="center">Hey, I’m Vaishnavi 👋</h1>
 
