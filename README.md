@@ -20,10 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="460"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/⚡_Scroll_Down_for_Good_Stuff-0ea5e9?style=for-the-badge&labelColor=020617" />
 </p>
 
