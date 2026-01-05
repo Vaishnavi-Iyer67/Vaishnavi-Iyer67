@@ -5,19 +5,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=JetBrains+Mono
-    &size=28
-    &pause=500
-    &color=60A5FA
-    &center=true
-    &vCenter=true
-    &width=800
-    &lines=Android+%26+Backend+Developer;I+build+systems,+not+just+features;I+break+things+so+users+don’t;Clean+code.+Calm+architecture."
-  />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Scroll_Down_for_Good_Stuff-0ea5e9?style=for-the-badge&labelColor=020617" />
@@ -37,7 +24,6 @@
 <p align="center"><b>⚠️ Warning:</b> Scroll at your own risk. This README has personality.</p>
 
 ---
-
 ## 🎯 What I Do (In Simple Words)
 
 <p align="center">
