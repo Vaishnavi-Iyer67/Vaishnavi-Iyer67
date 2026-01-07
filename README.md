@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Scroll_Down_for_Good_Stuff-0ea5e9?style=for-the-badge&labelColor=020617" />
-</p>
-
-
 <h1 align="center">Hey, I’m Vaishnavi Iyer </h1>
 
 <p align="center">
