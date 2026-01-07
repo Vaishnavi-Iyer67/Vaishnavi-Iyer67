@@ -17,19 +17,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=720&lines=Android+%26+Backend+Developer;I+build+things+that+actually+work;Breaking+systems+since+day+one;Fixing+them+even+faster" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="420"/>
-</p>
-
 <p align="center"><b>⚠️ Warning:</b> Scroll at your own risk. This README has personality.</p>
 
 ---
 ##  What I Do (In Simple Words)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lHDSvmwnQGDUD6/giphy.gif" width="380"/>
-</p>
-
 <p align="center">
   I turn ideas into apps.<br/>
   I turn bugs into lessons.<br/>
