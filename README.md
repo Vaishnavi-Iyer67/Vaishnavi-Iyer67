@@ -1,10 +1,3 @@
-<!-- TOP WAVE -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e40af&height=180&section=header&text=Vaishnavi&fontSize=56&fontColor=E5E7EB&animation=fadeIn&fontAlignY=35"
-  />
-</p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Scroll_Down_for_Good_Stuff-0ea5e9?style=for-the-badge&labelColor=020617" />
