@@ -30,11 +30,6 @@
 ---
 
 ##  How My Brain Works
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420"/>
-</p>
-
 <p align="center">
    Think in flows, not files<br/>
    Design before coding<br/>
