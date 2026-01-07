@@ -11,7 +11,7 @@
 </p>
 
 
-<h1 align="center">Hey, I’m Vaishnavi Iyer 👋</h1>
+<h1 align="center">Hey, I’m Vaishnavi Iyer </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=720&lines=Android+%26+Backend+Developer;I+build+things+that+actually+work;Breaking+systems+since+day+one;Fixing+them+even+faster" />
@@ -24,7 +24,7 @@
 <p align="center"><b>⚠️ Warning:</b> Scroll at your own risk. This README has personality.</p>
 
 ---
-## 🎯 What I Do (In Simple Words)
+##  What I Do (In Simple Words)
 
 <p align="center">
   <img src="https://media.giphy.com/media/l41lHDSvmwnQGDUD6/giphy.gif" width="380"/>
@@ -38,35 +38,35 @@
 
 ---
 
-## 🧠 How My Brain Works
+##  How My Brain Works
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-  🔹 Think in flows, not files<br/>
-  🔹 Design before coding<br/>
-  🔹 Assume everything will break — then prevent it
+   Think in flows, not files<br/>
+   Design before coding<br/>
+   Assume everything will break — then prevent it
 </p>
 
 ---
 
-## ⚡ Skills Unlocked
+##  Skills Unlocked
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-  📱 Android apps that don’t freeze<br/>
-  🧩 Backend logic that scales<br/>
-  🐛 Debugging without losing sanity (mostly)
+   Android apps that don’t freeze<br/>
+  Backend logic that scales<br/>
+   Debugging without losing sanity (mostly)
 </p>
 
 ---
 
-## 🛠️ Weapons of Choice
+##  Weapons of Choice
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,java,python,nodejs,mongodb,mysql,git&theme=dark" />
@@ -83,16 +83,16 @@
 
 ---
 
-## 🌱 Currently Grinding XP In
+## Currently Grinding XP In
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
 </p>
 
 <p align="center">
-  🤖 AI-powered systems<br/>
-  🚀 Backend performance<br/>
-  🧼 Writing cleaner code so future-me doesn’t cry
+   AI-powered systems<br/>
+   Backend performance<br/>
+   Writing cleaner code so future-me doesn’t cry
 </p>
 
 
@@ -110,7 +110,7 @@
 
 ---
 
-## 🌐 Find Me Here
+##  Find Me Here
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-kn67">
