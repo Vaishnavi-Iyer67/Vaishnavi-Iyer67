@@ -21,7 +21,7 @@
 <p align="center">
    Think in flows, not files<br/>
    Design before coding<br/>
-   Assume everything will break — then prevent it
+   Assume everything will break  then prevent it
 </p>
 
 ---
