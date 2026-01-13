@@ -29,10 +29,6 @@
 ##  Skills Unlocked
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
    Android apps that don’t freeze<br/>
   Backend logic that scales<br/>
    Debugging without losing sanity (mostly)
