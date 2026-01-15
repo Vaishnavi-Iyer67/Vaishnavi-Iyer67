@@ -15,21 +15,3 @@
 </p>
 
 </details>
-
----
-
-##  Find Me Here
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaishnavi-kn67">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:vaishnavikn122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://leetcode.com/u/vaishnavi_676/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
-
-<p align="center"><i>Built
